@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "BotTaskCodaqui\\AppWindow.h",
               "ToolTip": "C:\\Users\\artum\\OneDrive\\Documentos\\GitHub\\CodaquiChat\\BotTaskCodaqui\\AppWindow.h",
               "RelativeToolTip": "BotTaskCodaqui\\AppWindow.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-02T00:35:53.057Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "BotTaskCodaqui\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-02T00:35:37.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T00:35:37.785Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "BotTaskCodaqui\\Window.h",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-02T00:35:26.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T00:35:26.995Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "BotTaskCodaqui\\Window.cpp",
               "ViewState": "AQIAAI0AAAAAAAAAAAAAAHoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-01T22:36:42.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T22:36:42.659Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "BotTaskCodaqui\\AppWindow.cpp",
               "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-01T22:33:53.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T22:33:53.574Z"
             }
           ]
         }

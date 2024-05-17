@@ -1,5 +1,6 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (BotTaskCodaqui.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
-  AppWindow.cpp
+﻿  AppWindow.cpp
   main.cpp
+  Window.cpp
   Gerando Código...
+C:\Users\artum\OneDrive\Documentos\GitHub\CodaquiChat\BotTaskCodaqui\Window.cpp(147,48): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
   BotTaskCodaqui.vcxproj -> C:\Users\artum\OneDrive\Documentos\GitHub\CodaquiChat\x64\Debug\ChatCodaqui.exe
