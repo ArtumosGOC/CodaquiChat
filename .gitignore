@@ -1,7 +1,7 @@
 # Ingnorar Arquivos
 *.exe
 *.log
-*.tlog
+*.*.tlog
 *.
 BotTaskCodaqui.lastbuildstate
 

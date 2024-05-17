@@ -1,6 +1,0 @@
-﻿  AppWindow.cpp
-  main.cpp
-  Window.cpp
-  Gerando Código...
-C:\Users\artum\OneDrive\Documentos\GitHub\CodaquiChat\BotTaskCodaqui\Window.cpp(147,48): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
-  BotTaskCodaqui.vcxproj -> C:\Users\artum\OneDrive\Documentos\GitHub\CodaquiChat\x64\Debug\ChatCodaqui.exe
