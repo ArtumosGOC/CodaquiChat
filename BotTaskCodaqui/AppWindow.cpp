@@ -1,4 +1,6 @@
 #include "AppWindow.h"
+#include <string>
+#include <iostream>
 
 struct vector3d
 {
@@ -26,6 +28,7 @@ void AppWindow::onCreate()
 
 void AppWindow::onObject(LPCWSTR Type, LPCWSTR Text, int X, int Y, int width, int height)
 {
+
 	if (Type == L"EDIT")
 	{
         CreateWindow
