@@ -1,5 +1,9 @@
 # Ingnorar Arquivos
 *.exe
+*.log
+*.tlog
+*.
+BotTaskCodaqui.lastbuildstate
 
 # Ignorar Diretorios!
 obj/
